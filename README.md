@@ -33,5 +33,3 @@ Core
 - Semantic HTML: Accessible and well-structured markup.
 - Smooth User Experience: Clear navigation and organized content flow.
 
-
-https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212
