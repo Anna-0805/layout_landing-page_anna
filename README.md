@@ -1,4 +1,27 @@
 # Base layout template with Gulp, SCSS and Stylelint
+## Getting Started
+
+To run this project locally:
+1. Clone the repository:
+   git clone https://github.com/anna-0805/layout_landing-page_anna.git
+
+
+2. Navigate to the project folder:
+   cd layout_landing-page_anna
+
+
+3. Install dependencies (if any):
+   npm install
+
+
+4. Start the development server:
+   npm start
+
+
+5. Open in browser:
+   http://localhost:3000
+
+
 This project is a responsive landing page built to present premium audio products in a modern and elegant way. The goal of the project is to demonstrate clean layout structure, responsive design, and organized content presentation.
 
 Live DEMO
